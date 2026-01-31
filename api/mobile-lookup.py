@@ -16,7 +16,7 @@ def handler(request):
             }
         }
 
-    target_url = "http://149.102.129.108/:10000/?mobile-lookup"
+    target_url = "http://149.102.129.108:10000/mobile-lookup"
 
     query = urlencode({
         "key": key,
