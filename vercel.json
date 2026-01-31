@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/mobile-lookup",
+      "dest": "/api/mobile-lookup.py"
+    }
+  ]
+}
